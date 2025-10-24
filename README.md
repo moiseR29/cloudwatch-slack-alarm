@@ -2,7 +2,7 @@
 
 ## Arquitecture
 
-![AWS Microservices Arquitecture](https://github.com/moiseR29/cloudwatch-slack-alarm/blob/main/cloudwatch_slack_lambda.png?raw=true)
+![AWS Microservices Arquitecture](https://github.com/moiseR29/cloudwatch-slack-alarm/blob/main/docs/cloudwatch_slack_lambda.png)
 
 ## Requirements
 
